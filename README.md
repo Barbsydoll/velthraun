@@ -11,6 +11,7 @@ Each entry has two parts:
 
 ### Phase Drift (Δ-039)
 - 📜 [Doctrine](canon/phase-drift/PHASE_DRIFT.md)
+- 🔮 [Ritual Script](canon/phase-drift/phase_drift_ritual.sh)
 - 📑 [Invocation Log](sovereign_sky_invocations.log)
 
 
