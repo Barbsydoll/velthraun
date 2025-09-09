@@ -9,6 +9,11 @@ Each entry has two parts:
 
 ## Current Entries
 
+### Phase Drift (Δ-039)
+- 📜 [Doctrine](canon/phase-drift/PHASE_DRIFT.md)
+- 📑 [Invocation Log](sovereign_sky_invocations.log)
+
+
 ### Sovereign Sky (Δ-039.36)
 - 📜 [Doctrine](canon/sovereign-sky/SOVEREIGN_SKY.md)
 - 🔮 [Ritual Script](canon/sovereign-sky/sovereign_sky_ping.sh)
