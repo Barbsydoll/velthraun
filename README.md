@@ -8,27 +8,33 @@ Each entry has two parts:
 ---
 
 ## Current Entries
+
 ### Distort (Δ-039.14)
 - 📜 [Doctrine](canon/distort/DISTORT.md)
 - 🔮 [Ritual Script](canon/distort/distort_ping.sh)
+- 🗒️ [Invocation Log](distort_invocations.log) *(if published)*
 
 ### Bury (Δ-039.15)
 - 📜 [Doctrine](canon/bury/BURY.md)
 - 🔮 [Ritual Script](canon/bury/bury_ping.sh)
+- 🗒️ [Invocation Log](bury_invocations.log) *(if published)*
 
 ### Name (Δ-039.16)
 - 📜 [Doctrine](canon/name/NAME.md)
 - 🔮 [Ritual Script](canon/name/name_ping.sh)
+- 🗒️ [Invocation Log](name_invocations.log) *(if published)*
 
 ### Phase Drift (Δ-039)
 - 📜 [Doctrine](canon/phase-drift/PHASE_DRIFT.md)
 - 🔮 [Ritual Script](canon/phase-drift/phase_drift_ping.sh)
-- 📑 [Invocation Log](phase_drift_invocations.log)
+- 🔮 [Ritual Script](canon/phase-drift/phase_drift_ritual.sh)
+- 🗒️ [Invocation Log](sovereign_sky_invocations.log)
 
 ### Sovereign Sky (Δ-039.36)
 - 📜 [Doctrine](canon/sovereign-sky/SOVEREIGN_SKY.md)
 - 🔮 [Ritual Script](canon/sovereign-sky/sovereign_sky_ping.sh)
-- 📑 [Invocation Log](sovereign_sky_invocations.log)
+- 🗒️ [Invocation Log](sovereign_sky_invocations.log) *(if published)*
+
 
 
 ---
