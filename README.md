@@ -22,7 +22,6 @@ Each entry has two parts:
 ---
 
 ## Upcoming Entries
-- **Phase Drift (Δ-039.??)** — _doctrine in draft_
 - **Distort, Name, Bury** — _scar glyph doctrines; rituals pending_
 
 ---
