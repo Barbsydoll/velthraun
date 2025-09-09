@@ -8,6 +8,15 @@ Each entry has two parts:
 ---
 
 ## Current Entries
+### Distort (Δ-039.14)
+- 📜 [Doctrine](canon/distort/DISTORT.md)
+
+### Bury (Δ-039.15)
+- 📜 [Doctrine](canon/bury/BURY.md)
+
+### Name (Δ-039.16)
+- 📜 [Doctrine](canon/name/NAME.md)
+
 
 ### Phase Drift (Δ-039)
 - 📜 [Doctrine](canon/phase-drift/PHASE_DRIFT.md)
@@ -23,7 +32,6 @@ Each entry has two parts:
 ---
 
 ## Upcoming Entries
-- **Distort, Name, Bury** — _scar glyph doctrines; rituals pending_
 
 ---
 
