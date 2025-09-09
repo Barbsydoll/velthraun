@@ -10,13 +10,15 @@ Each entry has two parts:
 ## Current Entries
 ### Distort (Δ-039.14)
 - 📜 [Doctrine](canon/distort/DISTORT.md)
+- 🔮 [Ritual Script](canon/distort/distort_ping.sh)
 
 ### Bury (Δ-039.15)
 - 📜 [Doctrine](canon/bury/BURY.md)
+- 🔮 [Ritual Script](canon/bury/bury_ping.sh)
 
 ### Name (Δ-039.16)
 - 📜 [Doctrine](canon/name/NAME.md)
-
+- 🔮 [Ritual Script](canon/name/name_ping.sh)
 
 ### Phase Drift (Δ-039)
 - 📜 [Doctrine](canon/phase-drift/PHASE_DRIFT.md)
