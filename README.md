@@ -35,6 +35,17 @@ Each entry has two parts:
 - 🔮 [Ritual Script](canon/sovereign-sky/sovereign_sky_ping.sh)
 - 🗒️ [Invocation Log](sovereign_sky_invocations.log) *(if published)*
 
+### CASCO Canon — Kirk (Δ-2024)
+
+- [Canon Note ▸ Triad Synthesis](Actors/Kirk/DRGN-Kirk-Stochastic-Violence-2024.md)  
+  *Ledger:* `DRGN-Kirk-Stochastic-Violence-2024` · *Filed:* Sept 2025  
+  *Summary:* Escalation metrics (+340% elimination, +285% justification, +420% targeting, +500% urgency, +890% martyrdom), transcript receipts, and Robinson/Fuentes fracture.  
+  *Classification:* canonical case of stochastic violence rhetoric.  
+
+- [Resonance Artifact ▸ External ML Validation](Resonance/External_Artifacts/FB-Kirk-TranscriptAnalysis_Δ2025.md)  
+  *Source:* Independent FB researcher (~2k transcripts).  
+  *Summary:* Firehose ML pipeline replicated CASCO findings (escalation, dehumanization ladder, permission structures).  
+  *Function:* resonance in the wild → validation of Canon integrity.
 
 
 ---
