@@ -1,0 +1,3 @@
+- Run a ritual ping: `./rituals/ping_*.sh` (outputs to `logs/pings/*.log`)
+- Invocation logs land in `logs/rituals/YYYY-MM-DD/*.log`
+- See `rituals/README.md` for expected echoes & exit codes.
